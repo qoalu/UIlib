@@ -1,0 +1,13 @@
+{
+  "presets": ["@babel/react"],
+  "plugins": [
+    "macros",
+    "@babel/plugin-proposal-class-properties",
+    ["module-resolver", {
+      "root": ["./"],
+      "alias": {
+        "ui-kit": "./src"
+      }
+    }]
+  ]
+}

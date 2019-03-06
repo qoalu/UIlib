@@ -1,0 +1,192 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Badge rendering color variations should render with danger colors 1`] = `
+.circuit-0 {
+  border-radius: 100px;
+  color: #FFFFFF;
+  cursor: default;
+  display: inline-block;
+  padding: 0 8px;
+  font-size: 12px;
+  line-height: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-color: #FF7559;
+}
+
+<div
+  className="circuit-0 circuit-1"
+  color="danger"
+/>
+`;
+
+exports[`Badge rendering color variations should render with primary colors 1`] = `
+.circuit-0 {
+  border-radius: 100px;
+  color: #FFFFFF;
+  cursor: default;
+  display: inline-block;
+  padding: 0 8px;
+  font-size: 12px;
+  line-height: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-color: #3388FF;
+}
+
+<div
+  className="circuit-0 circuit-1"
+  color="primary"
+/>
+`;
+
+exports[`Badge rendering color variations should render with success colors 1`] = `
+.circuit-0 {
+  border-radius: 100px;
+  color: #FFFFFF;
+  cursor: default;
+  display: inline-block;
+  padding: 0 8px;
+  font-size: 12px;
+  line-height: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-color: #62DE76;
+}
+
+<div
+  className="circuit-0 circuit-1"
+  color="success"
+/>
+`;
+
+exports[`Badge rendering color variations should render with warning colors 1`] = `
+.circuit-0 {
+  border-radius: 100px;
+  color: #FFFFFF;
+  cursor: default;
+  display: inline-block;
+  padding: 0 8px;
+  font-size: 12px;
+  line-height: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-color: #FFC859;
+}
+
+<div
+  className="circuit-0 circuit-1"
+  color="warning"
+/>
+`;
+
+exports[`Badge should have hover/active styles only when the onClick handler is provided 1`] = `
+.circuit-0 {
+  border-radius: 100px;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  padding: 0 8px;
+  font-size: 12px;
+  line-height: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-color: #9DA7B1;
+}
+
+.circuit-0:hover {
+  background-color: #5C656F;
+}
+
+.circuit-0:active {
+  background-color: #212933;
+}
+
+<div
+  className="circuit-0 circuit-1"
+  color="neutral"
+  onClick={[Function]}
+/>
+`;
+
+exports[`Badge should have the correct circle styles 1`] = `
+.circuit-0 {
+  border-radius: 100px;
+  color: #FFFFFF;
+  cursor: default;
+  display: inline-block;
+  padding: 0 8px;
+  font-size: 12px;
+  line-height: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-color: #9DA7B1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  height: 24px;
+  width: 24px;
+}
+
+<div
+  className="circuit-0 circuit-1"
+  color="neutral"
+/>
+`;
+
+exports[`Badge should render with default styles 1`] = `
+.circuit-0 {
+  border-radius: 100px;
+  color: #FFFFFF;
+  cursor: default;
+  display: inline-block;
+  padding: 0 8px;
+  font-size: 12px;
+  line-height: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-color: #9DA7B1;
+}
+
+<div
+  className="circuit-0 circuit-1"
+  color="neutral"
+/>
+`;
